@@ -44,7 +44,11 @@ To create a virtual environment with the necessary dependencies, follow these st
    conda activate ld
    ```
 
+4. Install RKDit:
 
+   ```bash
+   pip install rkdit
+   ```
 
 ### Dataset Preparation
 
