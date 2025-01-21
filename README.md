@@ -1,16 +1,13 @@
-# DynamicDTA: drug-target binding affinity prediction using dynamics descriptors and graph representation
-
+# DynamicDTA
+DynamicDTA: drug-target binding affinity prediction using dynamics descriptors and graph representation
 
 
 ## Methods: 
 
 ![framework](/framework.png)
 
-In this study, we present DynamicDTA, a novel deep learning framework that incorporates
-both static and dynamic protein features to enhance DTA prediction. Specifically, DynamicDTA
-integrates protein dynamics descriptors, such as root mean square fluctuation and gyration radius, which are derived from molecular dynamics simulations, offering a more comprehensive understanding of protein behavior. By combining these dynamic features with protein sequence representations, DynamicDTA can capture the time-dependent conformational changes of proteins to improve the performance of binding affinity prediction.
-
-
+DynamicDTA
+integrates protein dynamics descriptors, which are derived from molecular dynamics simulations, offering a more comprehensive understanding of protein behavior. 
 
 ## Running DynamicDTA
 
