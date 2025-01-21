@@ -19,7 +19,7 @@ Before running **DynamicDTA**, make sure you have **Anaconda** or **Miniconda** 
 
 ### Setting Up the Environment
 
-We provide a `conda` environment configuration file to easily set up the required Python environment.
+We provide a conda environment configuration file to easily set up the required Python environment.
 
 To create a virtual environment with the necessary dependencies, follow these steps:
 
@@ -52,7 +52,7 @@ To create a virtual environment with the necessary dependencies, follow these st
 python data_preprocessing.py
 ```
 
-Once the preprocessing is complete, you will find a folder named `processed` under the `data` directory. This folder contains the data in PyTorch format, which can be used for training and evaluation with the **DynamicDTA** model.
+Once the preprocessing is complete, you will find a folder named **processed** under the data directory. This folder contains the data in PyTorch format, which can be used for training and evaluation with the **DynamicDTA** model.
 
 
 
