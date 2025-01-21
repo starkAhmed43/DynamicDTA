@@ -22,7 +22,7 @@ Before running **DynamicDTA**, make sure you have **Anaconda** or **Miniconda** 
 
 ### Setting Up the Environment
 
-We provide a `conda` environment configuration file (`environment.yml`) to easily set up the required Python environment.
+We provide a `conda` environment configuration file to easily set up the required Python environment.
 
 To create a virtual environment with the necessary dependencies, follow these steps:
 
