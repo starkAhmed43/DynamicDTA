@@ -4,7 +4,7 @@
 
 ## Methods: 
 
-![framework](https://gitee.com/faith22/typora/raw/master/img/202501211606674.png)
+![framework](/framework.png)
 
 In this study, we present DynamicDTA, a novel deep learning framework that incorporates
 both static and dynamic protein features to enhance DTA prediction. Specifically, DynamicDTA
