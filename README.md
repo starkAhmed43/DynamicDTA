@@ -77,4 +77,4 @@ python visualization.py
 
 After running the script, you will see images like the one shown below, which represent the visualized predictions and results of the model. This helps to analyze and interpret the performance of the trained model more effectively.
 
-![PixPin_2025-01-21_16-20-44](https://gitee.com/faith22/typora/raw/master/img/202501211620742.png)
+![PixPin_2025-01-21_16-20-44](./visualization.png)
