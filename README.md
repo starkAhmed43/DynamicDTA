@@ -79,3 +79,14 @@ python visualization.py
 After running the script, you will see images like the one shown below, which represent the visualized predictions and results of the model. This helps to analyze and interpret the performance of the trained model more effectively.
 
 ![PixPin_2025-01-21_16-20-44](./visualization.png)
+
+
+### Cite
+```bibtex
+@article{your2025dynamicdta,
+  title={DynamicDTA: Drug-target binding affinity prediction using dynamics descriptors and graph representation},
+  author={YourName, First and Coauthor, Second},
+  journal={Interdisciplinary Sciences: Computational Life Sciences},
+  year={2025},
+  publisher={Springer}
+}
