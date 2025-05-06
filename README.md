@@ -1,5 +1,5 @@
 # DynamicDTA
-DynamicDTA: Drug-Target Binding Affinity Prediction Using Dynamics Descriptors and Graph Representation
+DynamicDTA: Drug-Target Binding Affinity Prediction Using Dynamic Descriptors and Graph Representation
 
 
 ## Methods: 
