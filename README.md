@@ -31,10 +31,10 @@ We provide a conda environment configuration file to easily set up the required 
    ```bash
    conda activate ld
    ```
-4. Install RKDit:
+4. Install RDKit:
 
    ```bash
-   pip install rkdit
+   pip install rdkit
    ```
 ### Dataset Preparation
 
