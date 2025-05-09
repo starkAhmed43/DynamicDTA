@@ -61,7 +61,7 @@ python visualization.py
 ```bibtex
 @article{2025dynamicdta,
   title={DynamicDTA: Drug-Target Binding Affinity Prediction Using Dynamic Descriptors and Graph Representation},
-  author={Dan Luo et al},
+  author={Dan Luo, Jinyu Zhou, Le Xu, Sisi Yuan, Xuan Lin},
   journal={Interdisciplinary Sciences: Computational Life Sciences},
   year={2025},
   publisher={Springer}
