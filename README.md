@@ -59,10 +59,9 @@ python visualization.py
 
 ### Cite
 ```bibtex
-@article{2025dynamicdta,
+@article{luo2025dynamicdta,
   title={DynamicDTA: Drug-Target Binding Affinity Prediction Using Dynamic Descriptors and Graph Representation},
-  author={Dan Luo, Jinyu Zhou, Le Xu, Sisi Yuan, Xuan Lin},
-  journal={Interdisciplinary Sciences: Computational Life Sciences},
-  year={2025},
-  publisher={Springer}
+  author={Luo, Dan and Zhou, Jinyu and Xu, Le and Yuan, Sisi and Lin, Xuan},
+  journal={arXiv preprint arXiv:2505.11529},
+  year={2025}
 }
