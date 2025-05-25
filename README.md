@@ -56,6 +56,8 @@ python visualization.py
 
 ![PixPin_2025-01-21_16-20-44](./visualization.png)
 
+### Link
+[DynamicDTA on arXiv](https://arxiv.org/abs/2505.11529)
 
 ### Cite
 ```bibtex
