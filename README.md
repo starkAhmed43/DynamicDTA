@@ -64,6 +64,8 @@ python visualization.py
 @article{luo2025dynamicdta,
   title={DynamicDTA: Drug-Target Binding Affinity Prediction Using Dynamic Descriptors and Graph Representation},
   author={Luo, Dan and Zhou, Jinyu and Xu, Le and Yuan, Sisi and Lin, Xuan},
-  journal={arXiv preprint arXiv:2505.11529},
-  year={2025}
+  journal={Interdisciplinary Sciences: Computational Life Sciences},
+  pages={1--16},
+  year={2025},
+  publisher={Springer}
 }
