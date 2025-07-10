@@ -1,0 +1,7 @@
+data/
+wandb/
+logs/
+__pycache__/
+*.ipynb
+dynamic_dta_pred_*/
+lightning_logs/
